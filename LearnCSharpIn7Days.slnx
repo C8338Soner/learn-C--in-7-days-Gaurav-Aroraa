@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/Day01/">
+    <Project Path="Day01/Day01-BasicConcepts/Day01-BasicConcepts.csproj" />
+  </Folder>
+  <Folder Name="/Day02/">
+    <Project Path="Day02/Day02-OOPConcepts/Day02-OOPConcepts.csproj" />
+  </Folder>
+  <Folder Name="/Day03/">
+    <Project Path="Day03/Day03-AsyncAwait/Day03-AsyncAwait.csproj" />
+  </Folder>
+  <Folder Name="/Day04/">
+    <Project Path="Day04/Day04-TuplesPatternMatching/Day04-TuplesPatternMatching.csproj" />
+  </Folder>
+  <Folder Name="/Day05/">
+    <Project Path="Day05/Day05-LINQ/Day05-LINQ.csproj" />
+  </Folder>
+  <Folder Name="/Day06/">
+    <Project Path="Day06/Day06-RegexIndexers/Day06-RegexIndexers.csproj" />
+  </Folder>
+  <Folder Name="/Day07/">
+    <Project Path="Day07/Day07-MoreFeatures/Day07-MoreFeatures.csproj" />
+  </Folder>
+</Solution>
